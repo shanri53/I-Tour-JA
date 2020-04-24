@@ -1,0 +1,65 @@
+﻿
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    color: #3e454c;
+    text-transform: uppercase;
+}
+
+
+h2 {
+    font-size: 72px;
+    line-height: 30px;
+    color: #f3aa29;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 30px;
+    line-height: 27px;
+    color: #002747;
+    padding-top: 116px;
+    margin-bottom: 17px;
+    font-weight: normal;
+}
+
+    h3.head1 {
+        padding-top: 111px;
+        margin-bottom: 33px;
+    }
+
+h4 {
+    font-size: 24px;
+    line-height: 27px;
+    color: #002747;
+    padding-top: 72px;
+    margin-bottom: 16px;
+}
+
+
+    
+    
+  
+
+.container-fluid{
+    width:300px; 
+    height:100px;
+}
+
+.jumbotron
+{
+ background-image: url("image/bob.jpg");
+
+background-size: 100% ;
+color:white;
+margin-bottom: 1px;
+
+}
+.carousel-inner{
+        width: 1903px;
+        height: 800px;
+        position: absolute;
+       clip: rect(100px,0px,0px,0px);
+    }
+
+  
